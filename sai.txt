@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-# "hello world"
-=======
-
-# "hellodworls"
->>>>>>> parent of 91bbae9... rolling
